@@ -16,6 +16,8 @@ Term: Spring 2022
 + Project summary: In this project, we created a predictive model to conduct image classification. We create a label correction network to clean noisy labels and a convolutional neural network as an image classifier.
 	
 **Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+At first, all of group members met regularly and brainstormed the best models to deal with both label correction and image classification models. All of us have done some searches and collected important and helpful papers to inspire our model design process.
+Chen, Gexin and Lu, Chang collaborated to design and implement the final label correction network on model 2. They were inspired by the paper "Learning From Noisy Large-Scale Datasets With Minimal Supervision" (Andreas Veit et al, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 839-847) and reproduced the algorithm proposed by the paper. Additionally, Gexin and Chang were responsible to ensure the code of evaluation function and writing out csv file works well.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
