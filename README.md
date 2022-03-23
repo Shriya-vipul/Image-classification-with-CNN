@@ -19,7 +19,7 @@ Term: Spring 2022
 
 At first, all of group members met regularly and brainstormed the best models to deal with both label correction and image classification models. All of us have done some searches and collected important and helpful papers to inspire our model design process.  
 
-Chen, Gexin and Lu, Chang collaborated to design and implement the final label correction network on model 2. They were inspired by the paper "Learning From Noisy Large-Scale Datasets With Minimal Supervision" (Andreas Veit et al, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 839-847) and reproduced the algorithm proposed by the paper. Additionally, Gexin and Chang were responsible to ensure that the code of evaluation function and csv output function workw well.
+Chen, Gexin and Lu, Chang collaborated to design and implement the final label correction network on model 2. They were inspired by the paper "Learning From Noisy Large-Scale Datasets With Minimal Supervision" (Andreas Veit et al, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 839-847) and reproduced the algorithm proposed by the paper. Additionally, Gexin and Chang were responsible to ensure that the code of evaluation function and csv output function works well.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
